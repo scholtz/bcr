@@ -1,5 +1,17 @@
-# Blockchain Carbon Registry
+---
+description: Blockchain based platform for VERs (Verified emission reductions)
+---
 
-The aim of this project is to create registration, KYC processing tool, and secure processes for issuing and burning carbon credits using Open Bank Project apis and blockchain technology. 
+# ❤ CarbonX Intro
 
-https://bitcoin-bankathon.devpost.com/
+{% hint style="success" %}
+CarbonX is blockchain smart contract platform and solution for Verified emission reductions build on Ethereum Smart contracts.
+
+Platform was build to help organizations and governments to tokenize their Voluntary emissions reductions and provide liquid market for them.
+{% endhint %}
+
+## Getting Started
+
+**Got 2 minutes?** Check out a video overview of our product:
+
+{% embed url="https://www.youtube.com/watch?v=6uLTypmSvsA" %}
