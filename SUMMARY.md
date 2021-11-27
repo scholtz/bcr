@@ -1,12 +1,12 @@
 # Table of contents
 
-* [❤ CarbonX Intro](README.md)
+* [❤ BCR Intro](README.md)
 
 ## General
 
-* [Motivation behind CarbonX](general/motivation-behind-carbonx.md)
+* [Motivation behind BCR](general/motivation-behind-bcr.md)
 * [Key BENEFITS](general/key-benefits.md)
-* [How Can I use CarbonX](general/how-can-i-use-carbonx.md)
+* [How Can I use BCR](general/how-can-i-use-bcr.md)
 * [Use Cases](general/use-cases.md)
 
 ## Fundamentals
