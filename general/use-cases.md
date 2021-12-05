@@ -3,7 +3,7 @@
 {% hint style="warning" %}
 ### El Salvador emissions Trading scheme
 
-El Salvador can easily create their version European Allowances and help improve country carbon footprint by penalizing fossil power producers with Emission reduction scheme which could generate substantial income for **EL Salvador Green Energy Funds. **El Salvador can easily increase funding of renewables projects across.
+El Salvador can easily create their version European Allowances and help improve country carbon footprint by penalizing fossil power producers with Emission reduction scheme which could generate substantial income for **EL Salvador Green Energy Funds.** El Salvador can easily increase funding of renewables projects across.
 {% endhint %}
 
 {% hint style="success" %}

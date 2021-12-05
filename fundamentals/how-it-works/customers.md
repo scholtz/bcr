@@ -6,11 +6,11 @@ Main benefits are:
 
 **Liquid market** - With using <mark style="color:orange;">BCR</mark> token you will have liquid market to buy and even sell carbon offset tokens in case you will not need them.
 
-**Comply with regulations - **your state regulator or industry might have regulations to have carbon offset for you carbon footprint**. **
+**Comply with regulations -** your state regulator or industry might have regulations to have carbon offset for you carbon footprint**.**&#x20;
 
 **Efficient -** no need to use complicated and expensive registries. Blockchain will take care of everything.
 
-**Gain certification-  **for used (burned) emissions which proves you carbon neutral footprint
+**Gain certification-**  for used (burned) emissions which proves you carbon neutral footprint
 
 Steps to take:
 

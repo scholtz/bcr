@@ -4,7 +4,7 @@ Clean Energy producers can have some substantial benefits from scheme
 
 **Additional Source of revenue** from selling tokens to polluters
 
-**Liquid market for selling tokens - **renewable energy producers can sell their token on any centralized or decentralized exchange.
+**Liquid market for selling tokens -** renewable energy producers can sell their token on any centralized or decentralized exchange.
 
 Steps to take:
 
