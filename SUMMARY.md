@@ -23,7 +23,7 @@
 
 ## Technology
 
-* [Open Banking platform](technology/open-banking-platform.md)
+* [Open Banking project](technology/open-banking-project.md)
 * [🐗 Ethereum ERC20 Tokens](technology/ethereum-erc20-tokens.md)
 * [RSK Smart Contracts](technology/rsk-smart-contracts.md)
 * [Airnode](technology/airnode.md)
